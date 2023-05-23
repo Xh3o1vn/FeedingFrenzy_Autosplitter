@@ -1,6 +1,6 @@
 # FeedingFrenzy_Autosplitter
 
-An AutoSplitter for Feeding Frenzy.
+AutoSplitter for Feeding Frenzy.
 
 ---
 - Activate the Autosplitter in **Splits Editor** and set **Start Timer at:** to -2.20s.
