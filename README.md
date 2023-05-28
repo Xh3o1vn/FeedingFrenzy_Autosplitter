@@ -1,4 +1,4 @@
-# FeedingFrenzy_Autosplitter
+# Feeding Frenzy Autosplitter on PC
 
 AutoSplitter for Feeding Frenzy.
 
