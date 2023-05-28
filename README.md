@@ -20,7 +20,7 @@ P.S. Only one of the two methods can be chosen, otherwise the segmentation may o
 
 ## Start Time Setting
 
-Whether you do an Any% speedrun or a single Stage speedrun, set **Start Timer at：**to -2.20.
+Whether you do an Any% speedrun or a single Stage speedrun, set **Start Timer at：** to -2.20.
 
 ## Any%
 
