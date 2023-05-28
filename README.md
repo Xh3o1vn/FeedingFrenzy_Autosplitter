@@ -28,7 +28,7 @@ If you do an Any% Speedrun, please make sure your Livesplit have 40 splits. You 
 
 ## Individual Stage
 
-If you do an individual stage Speedrun in normal mode, please check **Single Stage Split** in **Settings** of Autosplitter and keep Livesplit with only one segment (or right-click on the Livesplit page and select **Close Splits**, but this will require you to re-fill the information in **Edit Splits**). Since it's unable to select specific stage in Time Attack! mode, this mode is not under consideration. However, you can submit the individual stage Speedrun from an Any% Speedrun to the Level Leaderboard (see next entry).
+If you do an individual stage Speedrun in normal mode, please check **Single Stage Split** in **Settings** of Autosplitter and keep Livesplit with only one segment (or right-click on the Livesplit page and select **Close Splits**, but this will require you to re-fill the information in **Edit Splits**). Since it's unable to select specific stage in Time Attack! mode, this mode is not under consideration. However, you can submit the individual stage Speedrun from an Any% Speedrun to the Level Leaderboard.
 
 P.S. If you plan to run a single bonus stage, make sure you eat **at least 1 fish** (poisonous fish, pearls, starfish bubbles are all acceptable) before the end of the level, otherwise the timer will not stop due to no change in foodbank, and a better end judgment method will be found in the future to replace the existing method.
 
