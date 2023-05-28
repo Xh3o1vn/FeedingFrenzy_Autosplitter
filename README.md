@@ -43,5 +43,3 @@ Autosplitter is not necessary, if you don't need Autosplitter you can deactive i
 If you have any question about this Autosplitter, feel free to post new thread [here](https://www.speedrun.com/feeding_frenzy/forum).
 
 You can also join our [Feeding Frenzy channel](https://discord.gg/cnUe7dhNfS) on Discord.
----
-To contact the author, you can post new threads [here](https://www.speedrun.com/feeding_frenzy/forum).
