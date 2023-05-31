@@ -27,7 +27,7 @@ If you're trying to do an Any% Speedrun, please make sure your Livesplit have 40
 
 ## Individual Stage
 
-If you're trying to do an individual Stage Speedrun in normal mode, please check **Individual Stage Split** in **Settings** of Autosplitter and keep Livesplit with only one segment (or right-click on the Livesplit page and select **Close Splits**, but this will require you to refill the information in **Edit Splits**). You can submit the Individual Stage Speedrun from an Any% Speedrun to the Level Leaderboard.
+If you're trying to do an Individual Stage Speedrun in normal mode, please check **Individual Stage Split** in **Settings** of Autosplitter and keep Livesplit with only one segment (or right-click on the Livesplit page and select **Close Splits**, but this will require you to refill the information in **Edit Splits**). You can submit the Individual Stage Speedrun from an Any% Speedrun to the Level Leaderboard.
 
 P.S. If you plan to run a bonus stage, make sure you eat **at least 1 fish** (poisonous fish, pearls, starfish bubbles are all acceptable) before the end of the stage, otherwise the timer will not stop due to no change in foodbank, and a better end checking method will be found in the future to replace the existing one.
 
