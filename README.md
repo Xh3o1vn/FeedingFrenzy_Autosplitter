@@ -4,7 +4,7 @@ AutoSplitter for Feeding Frenzy.
 
 ## Game Preparation
 
-It is recommended to run v5.7.18.1 or v2.9.16.1 of Feeding Frenzy (You can click **Game Options** on **Main Menu** to see the version). v2.9.16.1 is provided at [Resources](https://www.speedrun.com/feeding_frenzy/resources). Other versions may not be compatible with the Autosplitter.
+It is recommended to run v5.7.18.1 or v2.9.16.1 of Feeding Frenzy (you can click **Game Options** on **Main Menu** to see the version). v2.9.16.1 is provided at [Resources](https://www.speedrun.com/feeding_frenzy/resources). Other versions may not be compatible with the Autosplitter.
 
 ## Autosplitter Settings
 
