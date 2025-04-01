@@ -30,7 +30,7 @@ state("FeedingFrenzy", "unknown version")
 
 startup
 {
-    settings.Add("IndividualStage", false, "Individual Stage Split");
+    settings.Add("IndividualLevel", false, "Individual Level Split");
 }
 
 init
@@ -62,10 +62,10 @@ start
 
 split
 {   
-    // Stage Split
+    // Level Split
     if (current.stage > old.stage)
     {
-        return !settings["IndividualStage"];
+        return !settings["IndividualLevel"];
     }
 
     // Any% End
@@ -77,7 +77,7 @@ split
     // Individual Stage End 
     if (current.foodBank > old.foodBank)
     {
-        return settings["IndividualStage"];
+        return settings["IndividualLevel"];
     }
 }
 
