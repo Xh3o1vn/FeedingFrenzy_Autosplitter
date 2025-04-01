@@ -74,7 +74,7 @@ split
         return (current.foodBank > old.foodBank || current.timeAttackClock > old.timeAttackClock);
     }
 
-    // Individual Stage End 
+    // Individual Level End 
     if (current.foodBank > old.foodBank)
     {
         return settings["IndividualLevel"];
