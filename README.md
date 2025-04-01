@@ -17,10 +17,6 @@ Open Livesplit. There are two ways to set the Autosplitter.
 
 P.S. Only choose either of the two methods, otherwise the segmentation may occur twice.
 
-## Start Time Setting
-
-**Start Timer at:** should be set to -2.20 for both the Any% Speedrun and Individual Stage Speedrun.
-
 ## Any%
 
 If you're trying to do an Any% Speedrun, please make sure your Livesplit have 40 splits. You can download Feeding Frenzy Any% Splits [here](https://www.speedrun.com/feeding_frenzy/resources); Autosplitter will automatically segment at the beginning of each level when it is loaded.
